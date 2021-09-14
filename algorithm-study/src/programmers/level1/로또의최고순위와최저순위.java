@@ -1,6 +1,5 @@
 package programmers.level1;
 
-
 // https://programmers.co.kr/learn/courses/30/lessons/77484
 public class 로또의최고순위와최저순위 {
 	
